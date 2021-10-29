@@ -8,3 +8,5 @@ The idea is to have K important points (centroids) with labels 1, 2, ..., k, whi
 Centroids are initialized uniformly at random within the limits of the data, and updated as described above until convergence.
 
 Application in a toy case of multivariable normal distributed clusters together with the plot of the decision boundaries (Voronoi cells) is provided.
+
+![Voronoi cells](https://github.com/idarago/kmeans/voronoicells.png)
