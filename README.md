@@ -9,4 +9,4 @@ Centroids are initialized uniformly at random within the limits of the data, and
 
 Application in a toy case of multivariable normal distributed clusters together with the plot of the decision boundaries (Voronoi cells) is provided.
 
-![Voronoi cells](https://github.com/idarago/kmeans/voronoicells.png)
+![Voronoi cells](https://github.com/idarago/kmeans/blob/main/voronoicells.png)
