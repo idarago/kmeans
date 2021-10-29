@@ -10,7 +10,12 @@ Centroids are initialized uniformly at random within the limits of the data, and
 ## Applications:
 Application in a toy case of multivariable normal distributed clusters together with the plot of the decision boundaries (Voronoi cells) is provided.
 
-![Voronoi cells](https://github.com/idarago/kmeans/blob/main/voronoicells.png)
-
+<p align="center">
+  <img src="https://github.com/idarago/kmeans/blob/main/voronoicells.png" />
+</p>
+  
 Application for the Iris dataset, together with calculation of the Adjusted Rand Score is provided.
-![Iris dataset](https://github.com/idarago/kmeans/blob/main/iris_dataset_clustering.png)
+
+<p align="center">
+  <img src="https://github.com/idarago/kmeans/blob/main/iris_dataset_clustering.png" />
+</p>
