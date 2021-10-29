@@ -19,13 +19,13 @@ model.predict(data_point)  # Obtain the label of a new data point
 
 ## Applications
 
-Application in a toy case of multivariable normal distributed clusters together with the plot of the decision boundaries (Voronoi cells) is provided.
+Application in a toy case of multivariable normal distributed clusters together with the plot of the decision boundaries (Voronoi cells) is provided (```toydata.py```).
 
 <p align="center">
   <img src="https://github.com/idarago/kmeans/blob/main/voronoicells.png" />
 </p>
   
-Application for the <a href="https://archive.ics.uci.edu/ml/datasets/iris">Iris dataset</a>, together with calculation of the Adjusted Rand Score is provided.
+Application for the <a href="https://archive.ics.uci.edu/ml/datasets/iris">Iris dataset</a>, together with calculation of the Adjusted Rand Score is provided (```irisdataset.py```).
 
 <p align="center">
   <img src="https://github.com/idarago/kmeans/blob/main/iris_dataset_clustering.png" />
