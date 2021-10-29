@@ -7,6 +7,16 @@ The idea is to have K important points (<a href="https://en.wikipedia.org/wiki/C
 
 Centroids are initialized uniformly at random within the limits of the data, and updated as described above until convergence.
 
+## Instructions
+
+An object of the class ``kMeans`` takes as parameters the data and number of clusters. The centroids are initialized randomly. The ```train``` function updates the centroids iteratively. The ```predict``` function calculates the labels according to the current centroids.
+
+```
+model = kMeans(data, k)    # Initialize
+model.train()              # Train
+model.predict(data_point)  # Obtain the label of a new data point
+```
+
 ## Applications
 
 Application in a toy case of multivariable normal distributed clusters together with the plot of the decision boundaries (Voronoi cells) is provided.
